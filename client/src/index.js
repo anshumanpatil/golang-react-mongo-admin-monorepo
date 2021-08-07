@@ -1,6 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-// import './index.css';
+import './index.css';
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'font-awesome/css/font-awesome.min.css';
+import 'icheck-bootstrap/icheck-bootstrap.css';
+
 import {Base} from './Components/Base/Base';
 import reportWebVitals from './reportWebVitals';
 
