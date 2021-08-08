@@ -12335,9 +12335,9 @@ body.sidebar-collapse:not(.sidebar-mini-xs):not(.sidebar-mini-md):not(.sidebar-m
   }
 }
 
-.content-wrapper {
+/* .content-wrapper {
   background-color: #f4f6f9;
-}
+} */
 
 .content-wrapper > .content {
   padding: 0 0.5rem;

@@ -14,7 +14,6 @@ export const Dashboard = props => {
       {/* <!-- Site wrapper --> */}
       <div className="wrapper">
         <TopNavigation />
-
         <SideNavigation />
         {/* <!-- Content Wrapper. Contains page content --> */}
         <div className="content-wrapper">
@@ -42,8 +41,7 @@ export const Dashboard = props => {
             {/* <!-- Default box --> */}
             <Card>
               <Card.Header>
-                <h3 className="card-title">Title</h3>
-                
+                <Card.Title>Title</Card.Title>
                 <div className="card-tools">
                   <button type="button" className="btn btn-tool" data-card-widget="collapse" title="Collapse">
                     {/* <i className="fas fa-minus"></i> */}
